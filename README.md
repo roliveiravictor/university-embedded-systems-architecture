@@ -1,10 +1,10 @@
 # README #
 
-Those are the codes I've built on my Embedded Systems Architecture lecture.
+This is the code I've built on my Embedded Systems Architecture lecture.
 
 ### What is this repository for? ###
 
-* ESA Practical Exercises
+* ESA Practical Exercise
 
 ### How do I get set up? ###
 
